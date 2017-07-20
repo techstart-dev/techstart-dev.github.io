@@ -1,31 +1,7 @@
-# Assignment 0
+# TechStart
 
-**Table of Contents** 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, consequat vel consequat et, efficitur sit amet magna. Vivamus eu est pellentesque, aliquam sapien sit amet, ornare ex. Proin hendrerit lorem a ipsum varius congue. Sed at sapien vitae metus aliquam gravida aliquam id arcu. Praesent lobortis purus in laoreet convallis. Curabitur ac nunc suscipit, lacinia leo ut, elementum massa. Maecenas lacinia mi diam, vitae egestas elit facilisis sit amet. Fusce in lobortis nibh. In non orci a nisi rutrum vulputate ac ultricies risus. Praesent nec lectus diam.
 
-- [Assignment 0](#)
-	- [Signing up for Github](#)
-	- [Signing Consent Form](#)
-	- [Creating your Web Page 1: Hello World](#)
-	- [Creating your Web Page 2: Adidng an Image](#)
-	- [Creating your Web Page 3 (Optional): Extras](#)
-	- [Submit your Website](#)
+## [Assignment 0](https://techstart-dev.github.io/start)
+Start here to get started with the program.
 
-## Signing up for Github
-
-1. Open a new browser window and visit the [Github Website](http://github.com). 
-
-![Alt text](/githubsignup.png?raw=true "Optional Title")
-
-2. Enter your credentials to sign up for a [Github Website](http://github.com) account.
-
-![Alt text](0-2.png?raw=true "Optional Title")
-
-## Signing Consent Form
-
-## Creating your Web Page 1: Hello World
-
-## Creating your Web Page 2: Adidng an Image
-
-## Creating your Web Page 3 (Optional): Extras
-
-## Submit your Website

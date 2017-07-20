@@ -25,6 +25,9 @@
 4. Select "skip this step".
 ![Alt text](assignment0/images/0-4.png?raw=true "Optional Title")
 
+5. Confirm you see the following page. If you do, you have succesfully signed up for [Github Website](http://github.com), congratulations. 
+![Alt text](assignment0/images/0-5.png?raw=true "Optional Title")
+
 ## Signing Consent Form
 
 ## Creating your Web Page 1: Hello World

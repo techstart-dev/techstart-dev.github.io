@@ -2,6 +2,9 @@
 
 ## Signing up for Github
 
+1. Open a new browser window and visit the [Github Website](http://github.com). 
+![Alt text](/0-1.png?raw=true "Optional Title")
+
 ## Signing Consent Form
 
 ## Creating your Web Page 1: Hello World

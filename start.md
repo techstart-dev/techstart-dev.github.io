@@ -21,6 +21,10 @@
 
 ![Alt text](assignment0/images/0-2.png?raw=true "Optional Title")
 
+3. Select "Unlimited public repositories for free." for your personal plan and then select "Continue".
+
+![Alt text](assignment0/images/0-3.png?raw=true "Optional Title")
+
 ## Signing Consent Form
 
 ## Creating your Web Page 1: Hello World

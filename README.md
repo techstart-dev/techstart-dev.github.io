@@ -8,4 +8,6 @@
 
 ## Creating your Web Page 2: Adidng an Image
 
+## Creating your Web Page 3 (Optional): Extras
+
 ## Submit your Website

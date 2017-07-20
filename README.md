@@ -6,6 +6,10 @@
 
 ![Alt text](/githubsignup.png?raw=true "Optional Title")
 
+2. Enter your credentials to sign up for a [Github Website](http://github.com) account.
+
+![Alt text](0-2.png?raw=true "Optional Title")
+
 ## Signing Consent Form
 
 ## Creating your Web Page 1: Hello World

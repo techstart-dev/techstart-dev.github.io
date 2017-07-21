@@ -5,7 +5,7 @@ In this section you will personalize your online space. Let's make that Homepage
 
 **Prerequisites** 
 
-[Setting up a Website via Github](https:://techstart-dev.github.io/start)
+[Setting up a Website via Github](start.md)
 
 **Table of Contents** 
 

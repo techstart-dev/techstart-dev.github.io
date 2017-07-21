@@ -54,6 +54,9 @@
 4. Select the box that says "Initialize this repository with a README" and create a project named. **{your github username}.github.io** .
 ![Alt text](assignment0/images/creatingNewRepo.png?raw=true "Optional Title")
 
+5. Welcome to your project's homepage. In "Github" lingo, we call a project a "repository". Here you will find, organize, and create all the files you need to create a web page. Let's start by clicking on the *README.md* (remember, this was created when we selected "Initialize this repository with a README"). 
+![Alt text](assignment0/images/clickOnReadme.png?raw=true "Optional Title")
+
 ## Creating your Web Page 2: Adding an Image
 
 ## Creating your Web Page 3: Adding a Page 

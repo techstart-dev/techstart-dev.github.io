@@ -51,7 +51,7 @@
 3. Go to your email and verify the address
 ![Alt text](assignment0/images/ver.png?raw=true "Optional Title")
 
-4. Select the box that says "Initialize this repository with a README" and create a project named. **{{your github username}}.github.io** .
+4. Select the box that says "Initialize this repository with a README" and create a project named. **{your github username}.github.io** .
 ![Alt text](assignment0/images/creatingNewRepo.png?raw=true "Optional Title")
 
 ## Creating your Web Page 2: Adding an Image

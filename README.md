@@ -7,7 +7,7 @@ Do these things before doing anything else
 - [Sign Up for TechStart](#)
 - [Set Up Your Homepage Via Github](https://techstart-dev.github.io/start)
 
-## Begginer Projects
+## Beginner Projects
 
 ## Medium Projects
 

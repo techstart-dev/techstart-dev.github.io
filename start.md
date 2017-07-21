@@ -26,9 +26,24 @@
 ![Alt text](assignment0/images/0-4.png?raw=true "Optional Title")
 
 5. Confirm you see the following page. If you do, you have succesfully signed up for [Github Website](http://github.com), congratulations. 
-![Alt text](assignment0/images/0-5.png?raw=true "Optional Title")
+![Alt text](assignment0/images/0-6.png?raw=true "Optional Title")
 
-## Creating your Web Page 1: Hello World
+6. You should see a "verify email screen".
+![Alt text](assignment0/images/0-7.png?raw=true "Optional Title")
+
+7. You should see a "verify email screen".
+![Alt text](assignment0/images/ver.png?raw=true "Optional Title")
+
+8.  Press "start project" again
+![Alt text](assignment0/images/0-6.png?raw=true "Optional Title")
+
+9. Create a project named after your username
+![Alt text](assignment0/images/create_new_repo.png?raw=true "Optional Title")
+
+## Creating your Web Page 1: Creating your Homepage
+
+1. Select "Start a project"
+![Alt text](assignment0/images/githubsignup.png?raw=true "Optional Title")
 
 ## Creating your Web Page 2: Adding an Image
 

@@ -1,6 +1,9 @@
 
 # Setting up a Webpage with Github
 
+## Overview
+In this section you will create a webpage using Github Pages. 
+
 **Table of Contents** 
 
 - [Assignment 0](#)

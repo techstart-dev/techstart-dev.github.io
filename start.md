@@ -4,12 +4,12 @@
 **Table of Contents** 
 
 - [Assignment 0](#)
-	- [Signing up for Github](#)
-	- [Signing Consent Form](#)
-	- [Creating your Web Page 1: Hello World](#)
-	- [Creating your Web Page 2: Adidng an Image](#)
-	- [Creating your Web Page 3 (Optional): Extras](#)
-	- [Submit your Website](#)
+	- 1: [Signing up for Github](#)
+	- 2: [Creating your Web Page 1: Hello World](#)
+	- 3: [Creating your Web Page 2: Adidng an Image](#)
+	- 4: [Creating your Web Page 3: Adding an extra Page](#)
+	- 5: [Creating your Web Page 4: (Optional): Extras](#)
+	- 6: [Submit your Website](#)
 
 ## Signing up for Github
 

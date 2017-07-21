@@ -28,12 +28,12 @@
 5. Confirm you see the following page. If you do, you have succesfully signed up for [Github Website](http://github.com), congratulations. 
 ![Alt text](assignment0/images/0-5.png?raw=true "Optional Title")
 
-## Signing Consent Form
-
 ## Creating your Web Page 1: Hello World
 
-## Creating your Web Page 2: Adidng an Image
+## Creating your Web Page 2: Adding an Image
 
-## Creating your Web Page 3 (Optional): Extras
+## Creating your Web Page 3: Adding a Page 
+
+## Creating your Web Page 4: (Optional): Extras
 
 ## Submit your Website

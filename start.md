@@ -43,7 +43,13 @@
 ## Creating your Web Page 1: Creating your Homepage
 
 1. Select "Start a project"
-![Alt text](assignment0/images/githubsignup.png?raw=true "Optional Title")
+![Alt text](assignment0/images/0-6.png?raw=true "Optional Title")
+
+2. You should see a "verify email screen".
+![Alt text](assignment0/images/0-7.png?raw=true "Optional Title")
+
+3.Go to your email and verify the address
+![Alt text](assignment0/images/ver.png?raw=true "Optional Title")
 
 ## Creating your Web Page 2: Adding an Image
 

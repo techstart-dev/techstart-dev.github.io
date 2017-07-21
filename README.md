@@ -9,7 +9,7 @@ Do these things before doing anything else
 
 ## Beginner Projects
 
-- [Customizing Your Website](https://techstart-dev.github.io/webpage)
+- [Customizing Your Website](https://techstart-dev.github.io/website)
 
 ## Medium Projects
 

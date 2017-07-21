@@ -72,7 +72,7 @@
 11. Confirm that the changes have been made on your website at **{your github username}.github.io** .
 ![Alt text](assignment0/images/confirmChange2.png?raw=true "Optional Title")
 
-**Congrats! You completed steps to making your sharable digital space. The rest of the lessons will be about filling in your website with awesome stuff. **
+**Congrats! You completed steps to making your sharable digital space. The rest of the lessons will be about filling in your website with awesome stuff.**
 
 ## Submit your Website
 Go somewhere to submit site.

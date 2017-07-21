@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, conse
 
 
 ## Setup
-[Assignment 0](https://techstart-dev.github.io/start)
+[Setting Up Github](https://techstart-dev.github.io/start)
 
 ## Begginer Level Projects
 

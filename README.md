@@ -4,6 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, conse
 
 
 ## Setup
+Do these things before doing anything else
 [Setting Up Your Homepage Via Github](https://techstart-dev.github.io/start)
 
 ## Begginer Projects

@@ -6,8 +6,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, conse
 ## Setup
 [Setting Up Github](https://techstart-dev.github.io/start)
 
-## Begginer Level Projects
+## Begginer Projects
 
-## Medium Level Projects
+## Medium Projects
 
 ## Advanced Projects

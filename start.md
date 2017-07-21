@@ -4,9 +4,9 @@
 **Table of Contents** 
 
 - [Assignment 0](#)
-	- 1: [Signing up for Github](#)
-	- 2: [Creating your Homepage](#)
-	- 3: [Submit your Website](#)
+	- [Signing up for Github](#)
+	- [Creating your Homepage](#)
+	- [Submit your Website](#)
 
 ## Signing up for Github
 

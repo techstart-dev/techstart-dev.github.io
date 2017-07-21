@@ -5,11 +5,8 @@
 
 - [Assignment 0](#)
 	- 1: [Signing up for Github](#)
-	- 2: [Creating your Web Page 1: Hello World](#)
-	- 3: [Creating your Web Page 2: Adidng an Image](#)
-	- 4: [Creating your Web Page 3: Adding an extra Page](#)
-	- 5: [Creating your Web Page 4: (Optional): Extras](#)
-	- 6: [Submit your Website](#)
+	- 2: [Creating your Homepage](#)
+	- 3: [Submit your Website](#)
 
 ## Signing up for Github
 
@@ -40,7 +37,7 @@
 9. Create a project named after your username
 ![Alt text](assignment0/images/create_new_repo.png?raw=true "Optional Title")
 
-## Creating your Web Page 1: Creating your Homepage
+## Creating your Homepage
 
 1. Select "Start a project"
 ![Alt text](assignment0/images/0-6.png?raw=true "Optional Title")
@@ -60,13 +57,22 @@
 6. Let's return to your project's homepage. In "Github" lingo, we call a project a "repository". Here you will find, organize, and create all the files you need to create a web page. Let's start by clicking on the *README.md* (remember, this was created when we selected "Initialize this repository with a README"). Your *README.md* will act as the hompage for your website.
 ![Alt text](assignment0/images/clickOnReadme.png?raw=true "Optional Title")
 
-7. Welcome to your project's homepage. In "Github" lingo, we call a project a "repository". Here you will find, organize, and create all the files you need to create a web page. Let's start by clicking on the *README.md* (remember, this was created when we selected "Initialize this repository with a README"). 
+7. Click on the marker button to edit the page.
 ![Alt text](assignment0/images/editPage.png?raw=true "Optional Title")
 
-## Creating your Web Page 2: Adding an Image
+8. Edit the page text by clicking inside the editor and typing.
+![Alt text](assignment0/images/editPageText.png?raw=true "Optional Title")
 
-## Creating your Web Page 3: Adding a Page 
+9. To save the changes made to the page in step (8), scroll down to the bottom of the screen and click on the "Commit Changes" button.
+![Alt text](assignment0/images/commit1stEdit.png?raw=true "Optional Title")
 
-## Creating your Web Page 4: (Optional): Extras
+10. Confirm that the changes to the page you wished to see have been saved.
+![Alt text](assignment0/images/confirmChange1.png?raw=true "Optional Title")
+
+11. Confirm that the changes have been made on your website at **{your github username}.github.io** .
+![Alt text](assignment0/images/confirmChange2.png?raw=true "Optional Title")
+
+** Congrats! You completed steps to making your sharable digital space. The rest of the lessons will be about filling in your website with awesome stuff. **
 
 ## Submit your Website
+Go somewhere to submit site.

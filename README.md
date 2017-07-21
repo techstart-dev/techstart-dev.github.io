@@ -2,7 +2,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, conse
 
 ## Template Project
 
-- [Set Up Your Homepage Via Github](https://techstart-dev.github.io/template)
+- [Template Project](https://techstart-dev.github.io/template)
 
 ## Setup
 Do these things before doing anything else.

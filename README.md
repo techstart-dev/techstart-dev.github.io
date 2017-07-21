@@ -2,7 +2,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque orci, conse
 
 
 ## Setup
-Do these things before doing anything else
+Do these things before doing anything else.
 
 - [Sign Up for TechStart](#)
 - [Set Up Your Homepage Via Github](https://techstart-dev.github.io/start)

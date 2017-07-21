@@ -7,7 +7,7 @@ In this section you will create a webpage using Github Pages.
 **Table of Contents** 
 
 - [Sections](#)
-	- [Signing up for Github](## Signing up for Github)
+	- [Signing up for Github](#)
 	- [Creating your Homepage](#)
 	- [Submit your Website](#)
 

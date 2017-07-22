@@ -13,7 +13,7 @@ Do these things before doing anything else.
 ## Beginner Projects
 
 - [Customize Your Website](https://techstart-dev.github.io/website)
-- [Create a 360 Video](https://techstart-dev.github.io/360)
+- [Create a 360 Video](https://techstart-dev.github.io/360Video)
 
 ## Medium Projects
 

@@ -6,7 +6,7 @@ In this section you will create a webpage using Github Pages.
 
 **Time Requirements** 
 
-10 Mins
+5 Mins
 
 **Prerequisite** 
 

@@ -4,9 +4,17 @@
 ## Overview
 In this section you will create a webpage using Github Pages. 
 
-**Prerequisites** 
+**Time Requirements** 
+
+10 Mins
+
+**Prerequisite** 
 
 None
+
+**Next Steps** 
+
+[Customizing your website](website.md)
 
 **Table of Contents** 
 

@@ -1,4 +1,6 @@
 <html>
+<meta http-equiv="refresh" content="0;url=http://google.com">
+
 <body>
 
 <h1>My First Heading</h1>
